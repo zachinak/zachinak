@@ -1,0 +1,4 @@
+Learning java plan:
+- Run through w3schools java course quickly, focusing attention on areas that may need some brushing up.
+- Find the easiest way to serve an http(s) endpoint using Java and create a few.
+- deploy a spring boot backend app locally, focus on the coupon app idea.
