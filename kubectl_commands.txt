@@ -1,0 +1,4 @@
+Activate an interative shell on the specified pod. (use -c to specify the container if the pod has more than one container)
+kubectl exec -it mongo-depl-79585f75cf-2256r -- bin/bash
+
+Goal: build docker container with hello world appjava
